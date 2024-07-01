@@ -12,7 +12,7 @@ Technologies Used
 HTML: For structuring the web page and creating the input grid for Sudoku puzzles.
 JavaScript: For implementing the backtracking algorithm and handling user interactions.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codewithfaraz.com%2Fcontent%2F269%2Fsudoku-solver-with-html-css-and-javascript&psig=AOvVaw2mILH3dfZVQ8Yrk1ecatY6&ust=1719932887896000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjo7rmPhocDFQAAAAAdAAAAABA-![image](https://github.com/Bhavanabadavath29/Sudoku-Solver-/assets/138428561/edf6aef4-54d1-48cb-ba7f-e3ced1ed616d)
+https://codewithfaraz.com/img/Sudoku%20Solver%20with%20HTML,%20CSS,%20and%20JavaScript.jpg
 
 
 
