@@ -11,7 +11,9 @@ Technologies Used
 
 HTML: For structuring the web page and creating the input grid for Sudoku puzzles.
 JavaScript: For implementing the backtracking algorithm and handling user interactions.
-![image](https://github.com/Bhavanabadavath29/Sudoku-Solver-/assets/138428561/f39b0598-1991-4742-8098-40828c091eac)# Sudoku-Solver-
+
+https://play.google.com/store/apps/details?id=com.beeeyescales.stepsudokusolver&hl=en_US![image](https://github.com/Bhavanabadavath29/Sudoku-Solver-/assets/138428561/77448d9d-2fb5-4cce-8837-16f8435689dc)
+
 
 
 
